@@ -149,3 +149,12 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,intellij+all,windows
+
+# ignoring file
+.idea
+*.gradle
+*.iml
+*.xml
+
+# Avoid ignoring file
+!gradle-wrapper.jar
