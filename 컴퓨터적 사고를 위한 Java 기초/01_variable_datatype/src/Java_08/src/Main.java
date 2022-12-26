@@ -1,4 +1,4 @@
-// Java 프로그래밍 - 상속
+package Java_08.src;// Java 프로그래밍 - 상속
 
 class Person {
     String name;

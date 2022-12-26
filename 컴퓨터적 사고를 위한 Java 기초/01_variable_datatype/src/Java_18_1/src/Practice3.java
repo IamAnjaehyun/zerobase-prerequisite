@@ -1,3 +1,4 @@
+package Java_18_1.src;
 
 public class Practice3 {
     public static String solution(char[] str, char[] find, char[] to) {

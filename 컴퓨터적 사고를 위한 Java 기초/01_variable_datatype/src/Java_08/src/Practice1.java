@@ -1,4 +1,4 @@
-// Practice1
+package Java_08.src;// Practice1
 // 아래의 클래스 및 상속 관계에서 Test code를 수정하지 않고
 // Cat 클래스 내에서 super 또는 super()를 이용하여
 // "고양이 입니다." 가 출력될 수 있도록 변경해보세요.

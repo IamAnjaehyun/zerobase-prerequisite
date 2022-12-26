@@ -1,3 +1,4 @@
+package Java_18_3.src;
 
 public class Practice5 {
     public static int solution(int[] height) {

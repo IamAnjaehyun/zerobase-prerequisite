@@ -1,3 +1,4 @@
+package Java_18_3.src;
 
 public class Practice3 {
     public static void solution(int[] arr, int k, int x) {

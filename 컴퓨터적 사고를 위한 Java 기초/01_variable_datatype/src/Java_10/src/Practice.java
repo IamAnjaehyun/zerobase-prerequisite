@@ -1,4 +1,4 @@
-// Practice
+package Java_10.src;// Practice
 // 아래 Device 추상 클래스를 이용하여
 // UsbPort1 클래스와 WiFi 클래스를 자유롭게 구현해보세요.
 

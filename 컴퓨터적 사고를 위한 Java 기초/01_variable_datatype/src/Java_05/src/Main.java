@@ -1,4 +1,4 @@
-// Java 프로그래밍 - 반복문
+package Java_05.src;// Java 프로그래밍 - 반복문
 
 public class Main {
     public static void main(String[] args) {

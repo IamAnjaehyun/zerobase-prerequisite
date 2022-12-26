@@ -1,4 +1,4 @@
-// Practice2
+package Java_08.src;// Practice2
 // 아래 클래스와 상속 관계에서
 // Test code를 수정하지 않고, 아래와 같이 출력될 수 있도록 오버라이딩 해보세요.
 // 빵빵!

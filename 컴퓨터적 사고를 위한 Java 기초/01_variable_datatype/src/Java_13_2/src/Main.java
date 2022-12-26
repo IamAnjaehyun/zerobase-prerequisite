@@ -1,4 +1,4 @@
-// Java 프로그래밍 - 입출력_2
+package Java_13_2.src;// Java 프로그래밍 - 입출력_2
 
 import java.io.*;
 

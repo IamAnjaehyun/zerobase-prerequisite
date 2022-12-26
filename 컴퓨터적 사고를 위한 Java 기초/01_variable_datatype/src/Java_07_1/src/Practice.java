@@ -1,4 +1,4 @@
-//  Practice
+package Java_07_1.src;//  Practice
 //  다음 클래스 직접 만든 후 객체 생성
 //  클래스명: Animal
 //  특성: 이름, 무게, 분류

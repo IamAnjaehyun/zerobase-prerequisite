@@ -1,4 +1,4 @@
-// Java 프로그래밍 - 다형성
+package Java_09.src;// Java 프로그래밍 - 다형성
 
 class Person {
     public void print() {

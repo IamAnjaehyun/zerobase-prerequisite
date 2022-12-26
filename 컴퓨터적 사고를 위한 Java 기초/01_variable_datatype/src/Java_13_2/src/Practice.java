@@ -1,4 +1,4 @@
-// Practice
+package Java_13_2.src;// Practice
 // JamesArthurGosling.txt 파일을 읽은 후 원하는 단어 변경하여 새로 저장해보자.
 
 import java.io.BufferedReader;

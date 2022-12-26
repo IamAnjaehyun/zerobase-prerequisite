@@ -1,4 +1,4 @@
-// Java 프로그래밍 - 내부 클래스
+package Java_12.src;// Java 프로그래밍 - 내부 클래스
 
 public class Main {
 

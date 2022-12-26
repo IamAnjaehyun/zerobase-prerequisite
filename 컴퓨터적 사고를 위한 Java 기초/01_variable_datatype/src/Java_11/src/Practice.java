@@ -1,4 +1,4 @@
-// Practice
+package Java_11.src;// Practice
 // 아래 GreenOrc 클래스와 NPCSystem, UserSystem 인터페이스를 이용하여
 // OrkNPC1, OrkUser1 클래스를 만들어보세요.
 

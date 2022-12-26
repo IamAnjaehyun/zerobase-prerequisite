@@ -1,4 +1,4 @@
-// Java 프로그래밍 - 컬렉션 프레임워크
+package Java_15.src;// Java 프로그래밍 - 컬렉션 프레임워크
 
 import java.util.*;
 

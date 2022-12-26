@@ -1,3 +1,4 @@
+package Java_18_1.src;
 
 public class Practice4 {
     public static void solution(int n, int type) {
