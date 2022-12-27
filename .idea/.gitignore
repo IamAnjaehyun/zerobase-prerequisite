@@ -155,6 +155,17 @@ $RECYCLE.BIN/
 *.gradle
 *.iml
 *.xml
+bin/
+.metadata
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
 
 # Avoid ignoring file
 !gradle-wrapper.jar
