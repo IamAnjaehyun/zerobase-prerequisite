@@ -2,7 +2,7 @@ package java02set;
 
 import java.util.Arrays;
 import java.util.HashSet;
-
+//기초수학 - 집합
 public class Main {
     public static void main(String[] args) {
         //1. 자바에서 집합 사용 = HashSet
