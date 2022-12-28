@@ -13,17 +13,82 @@ abstract class Device {
 }
 
 // UsbPort1 클래스
+class UsbPort1 extends Device{
+    UsbPort1(int id){
+        this.deviceId = id;
+    }
+    @Override
+    void deviceInfo() {
+        System.out.println("device id : " + deviceId);
+    }
 
+    @Override
+    void connect() {
+        System.out.println("connect");
+
+    }
+
+    @Override
+    void disconnect() {
+        System.out.println("disconnect");
+    }
+
+    @Override
+    void send() {
+        System.out.println("send");
+
+    }
+
+    @Override
+    void receive() {
+        System.out.println("receive");
+
+    }
+}
 
 // WiFi 클래스
+class WiFi extends Device{
+    WiFi(int wifiId){
+        this.deviceId = wifiId;
+    }
+    @Override
+    void deviceInfo() {
+        System.out.println("device id : " + deviceId);
+    }
 
+    @Override
+    void connect() {
+        System.out.println("connect");
+
+    }
+
+    @Override
+    void disconnect() {
+        System.out.println("disconnect");
+    }
+
+    @Override
+    void send() {
+        System.out.println("send");
+
+    }
+
+    @Override
+    void receive() {
+        System.out.println("receive");
+
+    }
+}
 
 public class Practice {
 
     public static void main(String[] args) {
         // Test code
-//        UsbPort1 usb1 = new UsbPort1(1);
-//        WiFi wifi = new WiFi(0);
+        UsbPort1 usb1 = new UsbPort1(1);
+        WiFi wifi = new WiFi(0);
+
+        usb1.deviceInfo();
+        wifi.deviceInfo();
     }
 
 }
