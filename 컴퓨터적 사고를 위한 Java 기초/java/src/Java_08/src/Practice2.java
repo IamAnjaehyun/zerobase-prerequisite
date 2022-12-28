@@ -15,11 +15,17 @@ class Car {
 
 class FireTruck extends Car {
     public void horn() {
+        System.out.println("===FireTruck 나가신다 !===");
+        super.horn();
+        System.out.println("위이잉 !");
     }
 }
 
 class Ambulance extends Car {
     public void horn() {
+        System.out.println("===Ambulance 나가신다 !===");
+        super.horn();
+        System.out.println("삐뽀삐뽀 !");
     }
 }
 

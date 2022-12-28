@@ -21,8 +21,15 @@ class Animal {
 class Cat extends Animal {
     String desc;
     Cat() {
-        this.desc = "고양이 입니다.";
+//        this.desc = "고양이 입니다.";
+//        super.desc = "고양이 입니다.";
+        super("고양이 입니다."); //위아래 둘다가능
     }
+
+//    @Override //이거 혹은 위에 super.desc = "고양이 입니다."; 사용
+//    public void printInfo() {
+//        System.out.println(this.desc);
+//    }
 }
 
 public class Practice1 {
