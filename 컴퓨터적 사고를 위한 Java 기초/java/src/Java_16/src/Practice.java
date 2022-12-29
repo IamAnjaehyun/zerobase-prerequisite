@@ -1,4 +1,4 @@
-// Practice
+package Java_16.src;// Practice
 // 아래 인터페이스를 이용하여 익명클래스로 구현한 내용을 람다식으로 구현해보세요.
 
 interface CompareTool {
@@ -18,6 +18,7 @@ public class Practice {
 
 
         // 람다식으로 작성
-
+        CompareTool compareTool = (x , y) -> {return x > y? x : y;};
+        System.out.println("computeTool = " + compareTool.getMaxNum(10,11));
     }
 }
