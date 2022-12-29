@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9cb520a-3fb4-4544-8f83-04133676d5e6" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/variable_datatype/Java_03_1/src/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/variable_datatype/Java_03_1/src/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/variable_datatype/Java_03_2/src/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/variable_datatype/Java_03_2/src/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_03_1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_03_1/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_03_2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_03_2/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/variable_datatype/Java_18_1/src/Practice1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/variable_datatype/Java_18_1/src/Practice1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_18_1/src/Practice1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_18_1/src/Practice1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_18_1/src/Practice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_18_1/src/Practice2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_18_1/src/Practice3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_18_1/src/Practice3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,24 +44,28 @@
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Main">
-    <configuration name="Java_02_2.src.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_02_2.src.Main" />
+  <component name="RunManager" selected="애플리케이션.Practice3">
+    <configuration name="Java_17.src.Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_17.src.Practice" />
       <module name="variable_datatype" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_02_2.src.*" />
+          <option name="PATTERN" value="Java_17.src.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java_02_3.src.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_02_3.src.Main" />
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_15.src.Practice" />
       <module name="variable_datatype" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_02_3.src.*" />
+          <option name="PATTERN" value="Java_15.src.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java_02_4.src.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_02_4.src.Main" />
+    <configuration name="Practice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_18_1.src.Practice1" />
       <module name="variable_datatype" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_02_4.src.*" />
+          <option name="PATTERN" value="Java_18_1.src.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java_03_1.src.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_03_1.src.Main" />
+    <configuration name="Practice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_18_1.src.Practice2" />
       <module name="variable_datatype" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_03_1.src.*" />
+          <option name="PATTERN" value="Java_18_1.src.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_03_2.src.Main" />
+    <configuration name="Practice3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_18_1.src.Practice3" />
       <module name="variable_datatype" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_03_2.src.*" />
+          <option name="PATTERN" value="Java_18_1.src.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.Main" />
-        <item itemvalue="애플리케이션.Java_03_1.src.Main" />
-        <item itemvalue="애플리케이션.Java_02_4.src.Main" />
-        <item itemvalue="애플리케이션.Java_02_3.src.Main" />
-        <item itemvalue="애플리케이션.Java_02_2.src.Main" />
+        <item itemvalue="애플리케이션.Practice3" />
+        <item itemvalue="애플리케이션.Practice2" />
+        <item itemvalue="애플리케이션.Practice1" />
+        <item itemvalue="애플리케이션.Java_17.src.Practice" />
+        <item itemvalue="애플리케이션.Practice" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +146,10 @@
       <workItem from="1672050074480" duration="9000" />
       <workItem from="1672050109692" duration="3921000" />
       <workItem from="1672118204126" duration="133000" />
-      <workItem from="1672126712586" duration="1810000" />
+      <workItem from="1672126712586" duration="8306000" />
+      <workItem from="1672204471969" duration="4240000" />
+      <workItem from="1672209273205" duration="11358000" />
+      <workItem from="1672289044255" duration="3666000" />
     </task>
     <servers />
   </component>
