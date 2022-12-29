@@ -1,5 +1,9 @@
 package Java_15.src;// Java 프로그래밍 - 컬렉션 프레임워크
-
+// 여러 데이터를 편리하게 관리할 수 있게 만들어놓은 것 - 자료구조 및 알고리즘을 구조화
+// 대표 인터페이스
+// List - 순서O , 데이터 중복O , ex) ArrayList, LinkedList, Vector
+// Set - 순서X , 데이터 중복X, ex) HashSet, TreeSet
+// Map - 키와 쌍으로 이루어짐, 순서X, ex) HashMap, TreeMap
 import java.util.*;
 
 public class Main {
