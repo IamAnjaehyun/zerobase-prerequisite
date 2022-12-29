@@ -19,7 +19,8 @@ public class Practice {
 
 
         // 스트림으로 구현
-
-
+//        int sum2 = IntStream.range(1,11).filter(n -> n % 2 == 0).reduce((x,y) -> x+y).getAsInt(); //한번에 성공 ㅋㅋ good!
+        int sum2 = IntStream.range(1,11).filter(n -> n % 2 == 0).sum(); //이게 더 짧다
+        System.out.println("sum2 = " + sum2);
     }
 }
