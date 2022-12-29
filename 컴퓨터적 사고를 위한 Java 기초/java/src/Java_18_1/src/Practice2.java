@@ -1,8 +1,25 @@
 package Java_18_1.src;
 
+import java.util.Scanner;
+
 public class Practice2 {
     public static void solution() {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("알파벳 입력 : ");
+        char input = sc.nextLine().charAt(0);
+        int output = 0;
 
+        int step = (int)'a'-(int)'A';
+
+        if(input >= 'a' && input <= 'z'){ //소문자일 때
+            output = (int)input - step;
+            System.out.println("대문자 변환 = " + (char)output);
+        }else if (input >= 'A' && input <= 'Z'){ //대문자 일
+            output = (int)input + step;
+            System.out.println("소문자 변환 = " + (char)output);
+        }else{
+            System.out.println("입력하신 값이 알파벳이 아닙니다.");
+        }
     }
 
     public static void reference() {
