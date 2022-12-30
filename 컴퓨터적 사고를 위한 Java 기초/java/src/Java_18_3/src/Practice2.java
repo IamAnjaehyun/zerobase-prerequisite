@@ -4,7 +4,17 @@ import java.util.ArrayList;
 
 public class Practice2 {
     public static ArrayList<Integer> solution(int[] nums) {
+        ArrayList<Integer> list = new ArrayList<>();
 
+        for(int i=0;i<nums.length;i++){
+            int index = Math.abs(nums[i]) -1;
+
+            if(nums[index] < 0){
+                list.add(Math.abs(index+1));
+            }
+
+            nums[index] = -nums[index];
+        }
         return null;
     }
 
