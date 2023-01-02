@@ -1,4 +1,4 @@
-package java09practice1to5;
+package java09practice1_1;
 
 import java.util.Arrays;
 
