@@ -1,5 +1,5 @@
 package java07hashtable;
-//Practice4
+//Practice4.md
 //해시 충돌 해결 - 개방 주소법 (이중 해싱)
 
 class MyHashTable4 extends MyHashTable {

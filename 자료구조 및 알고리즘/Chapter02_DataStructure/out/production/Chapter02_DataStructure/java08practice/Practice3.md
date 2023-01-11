@@ -1,1 +1,0 @@
-![img.png](Practice3.png)

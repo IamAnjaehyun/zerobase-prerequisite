@@ -1,5 +1,5 @@
 package java03linkedlist;
-//Practice4
+//Practice4.md
 //단방향 연결리스트에서 중복 데이터를 찾아 삭제하세요
 
 //입출력 예시)

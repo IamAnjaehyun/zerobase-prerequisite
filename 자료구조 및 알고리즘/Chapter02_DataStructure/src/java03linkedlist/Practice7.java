@@ -1,5 +1,5 @@
 package java03linkedlist;
-//Practice4
+//Practice4.md
 //연결 리스트 배열 사용 연습
 
 //주어진 문자열 배열을 연결 리스트 배열로 관리하는 코드를 작성하시오.

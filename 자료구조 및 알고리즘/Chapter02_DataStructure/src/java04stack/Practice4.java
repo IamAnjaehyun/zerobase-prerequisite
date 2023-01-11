@@ -1,5 +1,5 @@
 package java04stack;
-//Practice4
+//Practice4.md
 //괄호 짝 검사
 
 //입출력 예시

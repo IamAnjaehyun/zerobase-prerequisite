@@ -1,5 +1,5 @@
 package java06deque;
-//Practice4
+//Practice4.md
 //데이터 재정렬
 //D_0 > D_1 > ... > D_n-1 > D_n 순으로 되어 있는 데이터를
 //D_0 > D_n > D_1 > D_n-1 > ... 순이 되도록 재정렬 하시오

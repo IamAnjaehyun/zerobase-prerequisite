@@ -1,5 +1,5 @@
 package java05queue;
-//Practice4
+//Practice4.md
 //요세푸스 문제
 //N과 K 가 주어졌을 때 (N,K) 요세푸스 순열을 구하시오
 //N과 K는 N>=K를 만족하는 양의 정수이다.

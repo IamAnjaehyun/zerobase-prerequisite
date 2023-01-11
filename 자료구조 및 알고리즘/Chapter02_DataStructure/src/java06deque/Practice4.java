@@ -1,5 +1,5 @@
 package java06deque;
-//Practice4
+//Practice4.md
 //팰린드롬(Palindrome) 찾기 (뒤집어도 똑같은 문자열)
 
 // 입력 a
