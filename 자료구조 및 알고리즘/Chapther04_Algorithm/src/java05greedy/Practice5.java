@@ -22,7 +22,7 @@ public class Practice5 {
 
         for (int i = 0; i < cArr.length - 1; i++) {
             if (cArr[i] - '0' < maxArr[i + 1]) {
-                for (int j = cArr.length - 1; j >= 1 + 1; j--) {
+                for (int j = cArr.length - 1; j >= i + 1; j--) {
                     if (cArr[j] - '0' == maxArr[i + 1]) {
                         char temp = cArr[j];
                         cArr[j] = cArr[i];
