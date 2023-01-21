@@ -37,7 +37,6 @@ public class Main {
         dp[n] = fibDP2(n - 1) + fibDP2(n - 2);
 
         return dp[n];
-     
     }
 
     public static void main(String[] args) {
