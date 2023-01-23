@@ -3,24 +3,24 @@ package java10shortestpath;
 import java.util.ArrayList;
 
 public class Dijkstra {
-    static class Node {
+    static class Noded {
         int to;
         int weight;
 
-        public Node(int to, int weight) {
+        public Noded(int to, int weight) {
             this.to = to;
             this.weight = weight;
         }
     }
 
     public static void dijkstra(int v, int[][] data, int start) {
-        ArrayList<ArrayList<Node>> graph = new ArrayList<>();
+        ArrayList<ArrayList<Noded>> graph = new ArrayList<>();
         for (int i = 0; i < v + 1; i++) { //노드번호가 1부터 시작을 해서 편의를 위해
             graph.add(new ArrayList<>());
         }
 
         for (int i = 0; i < data.length; i++) {
-            graph.get(data[i][0]).add(new Node(data[i][1], data[i][2]));
+            graph.get(data[i][0]).add(new Noded(data[i][1], data[i][2]));
         }
 
         int[] dist = new int[v + 1]; //최단거리 경로 기록할 dp용 메모리
@@ -44,7 +44,7 @@ public class Dijkstra {
             visited[curIdx] = true;
 
             for (int j = 0; j < graph.get(curIdx).size(); j++) { //인접노드 사이즈
-                Node adjNode = graph.get(curIdx).get(j);
+                Noded adjNode = graph.get(curIdx).get(j);
                 if (dist[adjNode.to] > dist[curIdx] + adjNode.weight) { //원래 거리정보 배열에 있던 값 보다 현재 거리랑 + 거쳐서가는 해당 비용이 작으면 업데이트
                     dist[adjNode.to] = dist[curIdx] + adjNode.weight;
                 }
