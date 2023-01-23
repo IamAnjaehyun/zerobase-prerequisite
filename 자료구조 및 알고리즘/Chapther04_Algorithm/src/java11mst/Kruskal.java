@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 //알고리즘 - 최소 신장 트리
 //크루스칼 알고리즘
-public class kruskal {
+public class Kruskal {
     static int parents[]; //사이클 판단을 위해
 
 
