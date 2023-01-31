@@ -30,7 +30,7 @@ public class Practice7 {
             int queryVal = queriesBackup[i][0];
             int queryIndex = queriesBackup[i][1];
 
-            while (j < intervals.length && intervals[j][0] <= queryVal) { //정렬 된 상태에서 구간에 있는 애들만 갖고 heap 구성
+            while (j < intervals.length && intervals[j][0] <= queryVal) { //정렬 된 상태에서 구간에 있는 애들만 갖고 heap 구현
                 minHeap.add(intervals[j]);
                 j++;
             }
